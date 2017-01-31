@@ -1,0 +1,16 @@
+{
+	"ImportPath": "github.com/mpmlj/http-traffic-monitor",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v78",
+	"Deps": [
+		{
+			"ImportPath": "github.com/daviddengcn/go-colortext",
+			"Rev": "805cee6e0d43c72ba1d4e3275965ff41e0da068a"
+		},
+		{
+			"ImportPath": "github.com/satyrius/gonx",
+			"Comment": "v1.3.0-13-g1df230d",
+			"Rev": "1df230dfbb9d7262c1c9fe2715d74bcf155d982a"
+		}
+	]
+}
